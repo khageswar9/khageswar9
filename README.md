@@ -20,7 +20,7 @@
   <img align="left" alt="khageswar's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <!-- <a href="https://twitter.com/sunil18695924">
-  <img align="left" alt="sunil | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="khageswar | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a> -->
 
 <br/>
@@ -35,7 +35,7 @@
 - 🔭 I’m currently working on Backend Development
 - 🌱 I’m currently learning MERN 
 - 👯 I’m looking to collaborate on Linkedin
-- 🤔 I’m looking for help with developing AI skills..
+- 🤔 I’m looking for help with developing web apps..
 - 💬 Ask me about any MERN related stuff
 - 📫 How to reach me **khageswarojha52542@gmail.com**
 - 😄 Pronouns: He/His
@@ -43,7 +43,7 @@
  <br>
  
 ## 🚀 Languages and Tools:
- <img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="440" height="250" />
+ <img align="right" alt="GIF" clear = "both" src="https://github.com/khageswar9/khageswar9/blob/master/code.gif?raw=true" width="440" height="250" />
 <p align="left"> 
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html-5"/> 
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3"/>
@@ -67,9 +67,9 @@
 ## 📊 My Github Stats
 
 <br/>
-    <a href="https://github.com/skbiswal01/github-readme-stats"><img alt="Sunil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khageswar9&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/khageswar9/github-readme-stats"><img alt="khageswar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khageswar9&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" /></a>
     </br>
-  <a href="https://github.com/skbiswal01/github-readme-stats"><img alt="Sunil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khageswar9&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/khageswar9/github-readme-stats"><img alt="khageswar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khageswar9&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
@@ -78,11 +78,11 @@
  <h2>ℹ️ &nbsp;Github Info</h2>
 <details>	
   <summary><b>🔎 Github Profile Details</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khageswar9&theme=github_dark" alt="NitishGoswami" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khageswar9&theme=github_dark" alt="khageswar" align = "center"/></p>
 </details>
 <details>
 <!--  <summary><b>🔥 Github Streaks</b></summary>
-<p align="center"><img src="https://github-readme-streak-statskbiswal01s.herokuapp.com/?user=khageswar9&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="khageswar9" /></p>
+<p align="center"><img src="https://github-readme-streak-khageswar9.herokuapp.com/?user=khageswar9&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="khageswar9" /></p>
 </details> -->
 <details>
 <summary><b>📊 Github Contribution Graph</b></summary>
@@ -90,7 +90,7 @@
 </details>
 <details>   
  <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/NitishGoswami"><img src="https://github-profile-trophy.vercel.app/?username=khageswar9&margin-w=5&theme=radical" alt="NitishGoswami" /></a> </p>
+<p align="center"> <a href="https://github.com/khageswar9"><img src="https://github-profile-trophy.vercel.app/?username=khageswar9&margin-w=5&theme=radical" alt="khageswar" /></a> </p>
  </details>
 
 
