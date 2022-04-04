@@ -32,7 +32,7 @@
 <b>Motivated and efficient Full-stack web developer</b> with a history of education in BSc and an interest in coding. Working with MERN stack and programming languages like JavaScript catalyzed my curiosity for web development. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
 
 
-- 🔭 I’m currently working on Backend Development
+- 🔭 I’m currently working on Fullstack Development
 - 🌱 I’m currently learning MERN 
 - 👯 I’m looking to collaborate on Linkedin
 - 🤔 I’m looking for help with developing web apps..
@@ -43,7 +43,7 @@
  <br>
  
 ## 🚀 Languages and Tools:
- <img align="right" alt="GIF" clear = "both" src="https://github.com/khageswar9/khageswar9/blob/master/code.gif?raw=true" width="440" height="250" />
+ <img align="right" alt="GIF" clear = "both" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif />
 <p align="left"> 
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html-5"/> 
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3"/>
