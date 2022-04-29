@@ -69,7 +69,7 @@
 <br/>
     <a href="https://github.com/khageswar9/github-readme-stats"><img alt="khageswar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khageswar9&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"  align="center"/></a>
     </br>
-  <a href="https://github.com/khageswar9/github-readme-stats"><img alt="khageswar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khageswar9&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" align="center"/></a>
+  <a href="https://github.com/khageswar9/github-readme-stats"><img alt="khageswar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khageswar9&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" style= "margin:auto" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
