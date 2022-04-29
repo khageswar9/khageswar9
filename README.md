@@ -67,7 +67,7 @@
 ## 📊 My Github Stats
 
 <br/>
-    <a href="https://github.com/khageswar9/github-readme-stats" align="center"><img alt="khageswar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khageswar9&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"  align="center"/></a>
+    <a href="https://github.com/khageswar9/github-readme-stats" width="100%"><img alt="khageswar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khageswar9&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"  align="center"/></a>
     </br>
   <a href="https://github.com/khageswar9/github-readme-stats" align="center"><img alt="khageswar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khageswar9&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
   <br/>
