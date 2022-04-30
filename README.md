@@ -39,7 +39,7 @@
 - 💬 Ask me about any MERN related stuff
 - 📫 How to reach me **khageswarojha52542@gmail.com**
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Hot water will turn into ice faster than cold water.
+- ⚡  Know More:- <a href="https://khageswar-ojha.netlify.app/">Khageswar's Portfolio</a>
  <br>
  
 ## 🚀 Languages and Tools:
